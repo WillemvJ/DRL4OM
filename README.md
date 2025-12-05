@@ -6,7 +6,7 @@ This repository contains course materials and resources for the **Capita selecta
 
 - **Martijn Mes Presentations:** Papers related to anticipatory scheduling, freight selection, approximate dynamic programming, and patient admission planning
 - **Willem Van Jaarsveld Presentations:** Papers on deep controlled learning, DRL roadmap, travelling maintainer problem, and spare parts balancing
-
+- **Zaharah Bukhsh' Presentations** Will be added after the second session.  
 
 ## Course Information
 
@@ -76,7 +76,7 @@ The objective is to benchmark the performance of the (deep) reinforcement learni
 
 Students need to have:
 - Solid background in probability theory and linear algebra
-- Solid foundations with programming languages such as Matlab, Python, C++ or R
+- Solid foundations with programming languages such as Python or C++
 - Students can use their language of choice, but should ensure that the methods discussed in the sessions are available in their preferred language
 - For neural networks, PyTorch and/or TensorFlow are recommended
 - **No prior knowledge on machine learning is required**
