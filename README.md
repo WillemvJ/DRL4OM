@@ -4,9 +4,19 @@ This repository contains course materials and resources for the **Capita selecta
 
 ### Papers and Presentations
 
-- **Martijn Mes Presentations:** Papers related to anticipatory scheduling, freight selection, approximate dynamic programming, and patient admission planning
-- **Willem Van Jaarsveld Presentations:** Papers on deep controlled learning, DRL roadmap, travelling maintainer problem, and spare parts balancing
-- **Zaharah Bukhsh' Presentations** Will be added after the second session.  
+- **Martijn Mes' Presentations:** Papers related to anticipatory scheduling, freight selection, approximate dynamic programming, and patient admission planning
+- **Willem Van Jaarsveld's Presentations:** Papers on deep controlled learning, DRL roadmap, travelling maintainer problem, and spare parts balancing
+- **Zaharah Bukhsh's Presentations** Will be added after the second session.  
+
+## DynaPlex
+
+In the course, we briefly discussed DynaPlex. The 1.0 version (define MDP in c++) can be found here:
+
+[DynaPlex GitHub Repository](https://github.com/dynaPlex/dynaplex/)
+
+The API for the 2.0 version is complete - the software itself is being finalized. If you want a reference on how to define an MDP in python you can take a look here:
+
+[DynaPlex Python MDP Tutorial](https://dynaplex-docs.readthedocs.io/en/latest/tutorial/airplane_mdp_python_code.html)
 
 ## Course Information
 
